@@ -57,7 +57,7 @@ SSH_PASSWORD=ваш_пароль
 ## Как пользоваться
 
 ```bash
-go build -o pm cmd/pm/main.go
+go build -o pm cmd/main.go
 ```
 
 ### 1. Упаковка и загрузка архива
